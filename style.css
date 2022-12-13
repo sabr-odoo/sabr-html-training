@@ -1,0 +1,118 @@
+body {
+    margin: auto;
+    padding: 48px;
+    box-shadow: 0px -16px 163px -3px rgba(0, 0, 0, 0.75);
+    background-color: #0E1765;
+}
+
+.main {
+    width: auto;
+    height: auto;
+    border: 5px solid black;
+    margin: auto;
+    border-radius: 25px;
+    padding: 20px;
+    background-color: #BFC9CA;
+}
+
+.finfo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.fimg {
+    width: 200px;
+    height: 200px;
+    margin-top: 26px;
+    margin-right: 70px;
+    /* border: 2px solid balck; */
+    /* border-image: url(/home/odoo/Documents/sanket/a.jpeg) 40 round; */
+}
+
+.fname {
+    margin-left: 60px;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.femail {
+    margin-left: 60px;
+    font-size: 23px;
+
+}
+
+.fno {
+    margin-left: 60px;
+    font-size: 17px;
+}
+
+.boxc {
+    border: 6px solid #85929E;
+    border-radius: 25px;
+}
+
+.fdes {
+    padding: 30px;
+    box-shadow: 0px -16px 163px -3px rgba(0, 0, 0, 0.75);
+}
+
+.abs {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flist {
+    margin: 10px;
+    padding: 20px;
+    border: 0px solid black;
+    margin-left: 150px;
+    border-radius: 25px;
+    background-color: #E8DAEF;
+    /* box-shadow: 0px -16px 163px -3px rgba(0,0,0,1); */
+}
+
+.flist2 {
+    margin: auto;
+    padding: auto;
+    border: 0px solid black;
+    padding: 46px;
+    border-radius: 25px;
+    background-color: #E8DAEF;
+    /* box-shadow: 0px -16px 163px -3px rgba(0,0,0,1); */
+}
+
+.boxsize {
+    margin-left: 56px;
+}
+
+.fenterlan {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.fproject {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: inline;
+    margin: 4px 2px;
+    cursor: ;
+    margin-left: 213px;
+    border-radius: 11px;
+}
